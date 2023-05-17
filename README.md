@@ -16,3 +16,7 @@ expo start
 - 🟡 JavaScript <br>
 - 🔵 React Native <br>
 - ⚫ Expo <br>
+
+
+<div align='center'> <video src="https://github.com/fabioVitorio/busca_cep_mobile/assets/109548564/9f7c55cf-a58a-4efe-ab5a-da655159cae6" /></div>
+
