@@ -1,4 +1,4 @@
-### <p align='center'> ![logoMental](https://github.com/fabioVitorio/app/assets/109548564/efd92611-26ee-4789-a991-5395155c7e7f) </p>
+### <p align='center'> <img src="https://github.com/fabioVitorio/busca_cep_mobile/assets/109548564/7c2773f9-af2e-418e-ba47-d0955f528303" width="130"/></p>
 <br>
 <p align='center'> zip code finder <br></p>
 
