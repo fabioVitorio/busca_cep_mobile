@@ -17,12 +17,12 @@ expo start
 - 🔵 React Native <br>
 - ⚫ Expo <br>
 
-<div>
+<div align='center'>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=busca_cep_mobile"/>
   <a href="https://github.com/fabioVitorio">
 </div>
  
 <br>
 
-<div align='center'> <video src="https://github.com/fabioVitorio/busca_cep_mobile/assets/109548564/9f7c55cf-a58a-4efe-ab5a-da655159cae6" /></div>
+<div align='center'> <img src="https://github.com/fabioVitorio/busca_cep_mobile/assets/109548564/2b7f04fb-f991-4a2b-af58-2ef5da5e8017" /></div>
 
